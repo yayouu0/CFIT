@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historique des Réseaux Sociaux</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Historique des Réseaux Sociaux</h1>
+    </header>
+
+    <section>
+        <h2>Facebook</h2>
+        <img src="facebook-logo.jpg" alt="Facebook logo">
+        <ol>
+            <li>Création en 2004 par Mark Zuckerberg</li>
+            <li>Acquisition d'Instagram en 2012</li>
+            <li>Lancement de Facebook Messenger en 2011</li>
+        </ol>
+
+        <h2>Instagram</h2>
+        <img src="instagram-logo.jpg" alt="Instagram logo">
+        <ol>
+            <li>Création en 2010 par Kevin Systrom et Mike Krieger</li>
+            <li>Acquis par Facebook en 2012</li>
+        </ol>
+
+        <h2>TikTok</h2>
+        <img src="tiktok-logo.jpg" alt="TikTok logo">
+        <ol>
+            <li>Lancement en 2016 par ByteDance</li>
+            <li>Fusion avec Musical.ly en 2018</li>
+        </ol>
+
+        <h3>Comparaison des dates clés :</h3>
+        <table>
+            <tr>
+                <th>Réseau</th>
+                <th>Création</th>
+                <th>Acquisition</th>
+            </tr>
+            <tr>
+                <td>Facebook</td>
+                <td>2004</td>
+                <td>Acquiert Instagram en 2012</td>
+            </tr>
+            <tr>
+                <td>Instagram</td>
+                <td>2010</td>
+                <td>Acquis par Facebook en 2012</td>
+            </tr>
+            <tr>
+                <td>TikTok</td>
+                <td>2016</td>
+                <td>Fusion avec Musical.ly en 2018</td>
+            </tr>
+        </table>
+    </section>
+
+    <footer>
+        <p>Source: <a href="https://fr.wikipedia.org/wiki/Facebook">Wikipedia</a></p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paramètres de Confidentialité</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Paramètres de Confidentialité</h1>
+    </header>
+
+    <section>
+        <h2>Facebook</h2>
+        <img src="privacy-facebook.jpg" alt="Paramètres de confidentialité Facebook">
+        <ul>
+            <li>Contrôle de la visibilité des publications</li>
+            <li>Paramètres de sécurité du compte</li>
+            <li>Gestion des informations personnelles</li>
+        </ul>
+        <a href="https://www.facebook.com/privacy/explanation">En savoir plus sur la confidentialité sur Facebook</a>
+
+        <h2>Instagram</h2>
+        <img src="privacy-instagram.jpg" alt="Paramètres de confidentialité Instagram">
+        <ul>
+            <li>Rendre le compte privé ou public</li>
+            <li>Contrôles de visibilité des publications</li>
+        </ul>
+        <a href="https://help.instagram.com/196883487377501">En savoir plus sur la confidentialité sur Instagram</a>
+
+        <h2>TikTok</h2>
+        <img src="privacy-tiktok.jpg" alt="Paramètres de confidentialité TikTok">
+        <ul>
+            <li>Gestion de la visibilité des vidéos</li>
+            <li>Contrôle des interactions et des commentaires</li>
+        </ul>
+        <a href="https://www.tiktok.com/safety">En savoir plus sur la confidentialité sur TikTok</a>
+
+        <h3>Vidéo explicative sur la confidentialité :</h3>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ABCDEF12345" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </section>
+
+    <footer>
+        <p>Source: <a href="https://www.tiktok.com/safety">TikTok Privacy</a></p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Les Services des Réseaux Sociaux</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Les Services des Réseaux Sociaux</h1>
+    </header>
+
+    <section>
+        <h2>Facebook</h2>
+        <img src="facebook-services.jpg" alt="Services de Facebook">
+        <ul>
+            <li>Partage de photos et vidéos</li>
+            <li>Messagerie instantanée via Facebook Messenger</li>
+            <li>Groupes et événements</li>
+        </ul>
+
+        <h2>Instagram</h2>
+        <img src="instagram-services.jpg" alt="Services d'Instagram">
+        <ul>
+            <li>Partage de photos et vidéos</li>
+            <li>Stories et Reels</li>
+            <li>IGTV pour vidéos longues</li>
+        </ul>
+
+        <h2>TikTok</h2>
+        <img src="tiktok-services.jpg" alt="Services de TikTok">
+        <ul>
+            <li>Création et partage de vidéos courtes</li>
+            <li>Effets et filtres pour améliorer les vidéos</li>
+            <li>Live streaming</li>
+        </ul>
+
+        <h3>Comparaison des services :</h3>
+        <table>
+            <tr>
+                <th>Service</th>
+                <th>Facebook</th>
+                <th>Instagram</th>
+                <th>TikTok</th>
+            </tr>
+            <tr>
+                <td>Partage de photos/vidéos</td>
+                <td>Oui</td>
+                <td>Oui</td>
+                <td>Oui</td>
+            </tr>
+            <tr>
+                <td>Messagerie instantanée</td>
+                <td>Oui (Messenger)</td>
+                <td>Non</td>
+                <td>Non</td>
+            </tr>
+           
